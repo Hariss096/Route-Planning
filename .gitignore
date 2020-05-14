@@ -3,6 +3,16 @@
 *.o
 draw.cpp
 test.cpp
-build/
+build*/
 bin/
 lib/
+/.vs/VSWorkspaceState.json
+/.vs/tasks.vs.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/.vs/launch.vs.json
+/.vs/CppND-Route-Planning-Project/v16/TestStore/0
+/.vs/CppND-Route-Planning-Project/v16/Browse.VC.db
+/.vs/CppND-Route-Planning-Project/v16/.suo
+/.vs/cmake.db
+/.vs/CMake Overview
